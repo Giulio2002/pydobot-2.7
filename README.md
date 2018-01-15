@@ -1,4 +1,3 @@
-[![CircleCI](https://circleci.com/gh/luismesas/pydobot.svg?style=svg)](https://circleci.com/gh/luismesas/pydobot)
 
 Python library for Dobot Magician
 ===
